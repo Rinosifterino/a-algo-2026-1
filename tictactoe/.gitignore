@@ -1,0 +1,15 @@
+__# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos compactados (como o seu tictactoe.zip)
+*.zip
+
+# Ambientes Virtuais (caso você use no futuro)
+venv/
+env/
+.env
+
+# Configurações de IDE e Sistema Operacional
+.vscode/
+.DS_Store

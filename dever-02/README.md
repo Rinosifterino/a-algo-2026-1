@@ -1,4 +1,4 @@
-# Resultados obtidos:  
+        # Resultados obtidos:  
 -----------------------------------------------------------------------------  
 Tempo para n=10  : 0.000004 segundos  
 Tempo para n=100 : 0.000019 segundos  

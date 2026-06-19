@@ -4,12 +4,8 @@ def palindromo(array):
             return print("não é palindromo")
     return print("é palindromo")
 
-array1 = [0, 1, 2, 3, 2, 1, 0]
-array2 = ["a", "b", "b", "a"]
-array3 = ["a", "b", "c", "b", "a"]
-array4 = ["a", "b", "c", "f", "b", "a"] 
+array1 = [0, 1, 2, 3, 2, 3, 6]
+array2 = ["m","a","r","r","a","m"]
 
 palindromo(array1)
 palindromo(array2)
-palindromo(array3)
-palindromo(array4)

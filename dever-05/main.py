@@ -41,7 +41,7 @@ def merge_sort(arr):
 
 # Teoria: A multiplicação de duas matrizes quadradas de tamanho n x n 
 # multiplica cada linha por cada coluna. 
-# Complexidade: O(n³)
+# Complexidade: O(n²)
 
 def multiplicacao_matrizes(matriz_a, matriz_b):
     n = len(matriz_a)
